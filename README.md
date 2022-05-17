@@ -1,5 +1,5 @@
 # Stock Analysis Using Excel VBA Macros
-Click the following link to view the Excel file: 
+Click the following link to view the Excel file: https://github.com/tylerah/green-stock-analysis/blob/main/VBA_challenge.xlsm
 ## Overview of Project
 ### Purpose
 The purpose of this project was to refactor a VBA script that was originally designed to display data associated with various stocks from green energy businesses. The original code was able to analyze the stock data contained in an Excel worksheet and output both the total daily volume as well as the overall return for the year. The client was so impressed with the worksheet that he wants to be able to use it on the entire stock market. The original code works well for a dozen stocks, but was not written with efficiency in mind. As such, the goal of this project was to optimize the original code so that the script can be used on larger data sets without taking too long to execute.
